@@ -43,17 +43,17 @@
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1737467152&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1737467152&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1737467152&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1737467152&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1737467152&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=1737467152&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
