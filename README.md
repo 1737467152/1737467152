@@ -43,17 +43,23 @@
 <div align="center">
 
 <!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=1737467152&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/1737467152">
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=1737467152&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+</a>
 
 <!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=1737467152&layout=compact&langs_count=8&theme=tokyonight"/>
+<a href="https://github.com/1737467152">
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=1737467152&layout=compact&langs_count=8&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"/>
+</a>
 
 </div>
 
 <div align="center">
 
 <!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=1737467152&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://github.com/1737467152">
+  <img src="https://streak-stats.demolab.com/?user=1737467152&theme=tokyonight" alt="GitHub Streak"/>
+</a>
 
 </div>
 
